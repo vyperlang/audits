@@ -17,6 +17,6 @@
     - Semantic analysis and Code generation
 - [OtterSec, September 2023](audits/OtterSec_Vyper_September_2023_audit.pdf)
     - Release [v0.3.10rc1](https://github.com/vyperlang/vyper/releases/tag/v0.3.10rc1)
-- [CodeHawks, September 2023](audits/CodeHawks_Vyper_Semptember_2023_competetive_audit.md)
+- [CodeHawks, September 2023](audits/CodeHawks_Vyper_September_2023_competitive_audit.md)
     - General Competitive Audit
     - [full results](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc)
