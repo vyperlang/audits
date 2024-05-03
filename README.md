@@ -9,16 +9,25 @@
 ## 2024
 - [Statemind, January 2024](audits/Statemind_Vyper_January_2024_audit.pdf)
     - Storage layout v0.1.0b16-v0.3.10
+- [Chainsecurity, February 2024](audits/ChainSecurity_Vyper_February_2024_limited_review.pdf)
+    - Modules
+    - Various breaking changes introduced for `v0.4.0`
 
 ## 2023
 - [ChainSecurity, January 2023](audits/ChainSecurity_Vyper_January_2023_limited_review.pdf)
     - Front-End and Type System
+        - Refactoring of the front-end type system
+        - Front-end and codegen type system merge
 - [ChainSecurity, March 2023](audits/ChainSecurity_Vyper_March_2023_limited_review.pdf)
     - Front-End and Type System
+        - Front-end and codegen type system merge
 - [ChainSecurity, May 2023](audits/ChainSecurity_Vyper_May_2023_limited_review.pdf)
     - Semantic analysis and Code generation
+        - Security advisory fixes
 - [ChainSecurity, September 2023](audits/ChainSecurity_Vyper_September_2023_limited_review.pdf)
     - Semantic analysis and Code generation
+        - Function selector
+        - Built-ins
 - [OtterSec, September 2023](audits/OtterSec_Vyper_September_2023_audit.pdf)
     - Release [v0.3.10rc1](https://github.com/vyperlang/vyper/releases/tag/v0.3.10rc1)
 - [CodeHawks, September 2023](audits/CodeHawks_Vyper_September_2023_competitive_audit.md)
