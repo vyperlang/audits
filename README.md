@@ -33,6 +33,8 @@
 - [CodeHawks, September 2023](audits/CodeHawks_Vyper_September_2023_competitive_audit.md)
     - General Competitive Audit
     - [full results](https://www.codehawks.com/report/cll5rujmw0001js08menkj7hc)
+- [OtterSec, November 2023](audits/OtterSec_Vyper_November_2023_audit.pdf)
+    - Built-ins
 - [ChainSecurity, December 2023](audits/ChainSecurity_Vyper_December_2023_limited_review.pdf)
     - Built-ins and Bytecode Generation
   
