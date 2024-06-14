@@ -12,6 +12,8 @@
 - [Chainsecurity, February 2024](audits/ChainSecurity_Vyper_February_2024_limited_review.pdf)
     - Modules
     - Various breaking changes introduced for `v0.4.0`
+- [Statemind, June 2024](audits/Statemind_Vyper_June_2024_audit.pdf)
+    - Storage layout and Modules v0.3.10-v0.4.0rc4
 
 ## 2023
 - [ChainSecurity, January 2023](audits/ChainSecurity_Vyper_January_2023_limited_review.pdf)
