@@ -9,11 +9,13 @@
 ## 2024
 - [Statemind, January 2024](audits/Statemind_Vyper_January_2024_audit.pdf)
     - Storage layout v0.1.0b16-v0.3.10
-- [Chainsecurity, February 2024](audits/ChainSecurity_Vyper_February_2024_limited_review.pdf)
+- [ChainSecurity, February 2024](audits/ChainSecurity_Vyper_February_2024_limited_review.pdf)
     - Modules
     - Various breaking changes introduced for `v0.4.0`
 - [Statemind, June 2024](audits/Statemind_Vyper_June_2024_audit.pdf)
     - Storage layout and Modules v0.3.10-v0.4.0rc4
+- [ChainSecurity, June 2024](audits/ChainSecurity_Vyper_June_2024_limited_review.pdf)
+    - ABI decoder  and v0.4.0 PRs
 
 ## 2023
 - [ChainSecurity, January 2023](audits/ChainSecurity_Vyper_January_2023_limited_review.pdf)
