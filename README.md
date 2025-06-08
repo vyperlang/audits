@@ -1,10 +1,16 @@
 # Vyper audits
-- as of February 2024, Vyper conducts regular security reviews with:
+- Vyper conducts security reviews with:
     - [ChainSecurity](https://chainsecurity.com/),
-    - [OtterSec](https://osec.io/), and
-    - [Statemind](https://statemind.io/)
+    - [OtterSec](https://osec.io/),
+    - [Statemind](https://statemind.io/), and
+    - [Anatomist](https://github.com/th3anatomist)
 
 - during the fall of 2023, Vyper also conducted a general competitive audit with [CodeHawks](https://www.codehawks.com/contests/cll5rujmw0001js08menkj7hc)
+- during the winter of 2024, Vyper participated in [Ethereum Attackathon](https://reports.immunefi.com/ethereum-protocol-or-attackathon?utm_source=boost_program_page) with Immunefi 
+
+## 2025
+- [Anatomist, April 2025](audits/Anatomist_Vyper_April_2025.pdf)
+    - v0.4.2 release
 
 ## 2024
 - [Statemind, January 2024](audits/Statemind_Vyper_January_2024_audit.pdf)
