@@ -11,6 +11,8 @@
 ## 2025
 - [Anatomist, April 2025](audits/Anatomist_Vyper_April_2025.pdf)
     - v0.4.2 release
+- [ChainSecurity, April 2025](audits/ChainSecurity_Vyper_April_2025.pdf)
+    - v0.4.2 release
 
 ## 2024
 - [Statemind, January 2024](audits/Statemind_Vyper_January_2024_audit.pdf)
