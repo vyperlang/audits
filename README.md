@@ -13,6 +13,9 @@
     - v0.4.2 release
 - [ChainSecurity, April 2025](audits/ChainSecurity_Vyper_April_2025.pdf)
     - v0.4.2 release
+- [ChainSecurity, June 2025](audits/ChainSecurity_Vyper_June_2025_limited_review.pdf)
+    - v0.4.2 release fix review
+    - `raw_return` decorator
 
 ## 2024
 - [Statemind, January 2024](audits/Statemind_Vyper_January_2024_audit.pdf)
