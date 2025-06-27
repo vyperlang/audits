@@ -23,6 +23,8 @@
 - [ChainSecurity, February 2024](audits/ChainSecurity_Vyper_February_2024_limited_review.pdf)
     - Modules
     - Various breaking changes introduced for `v0.4.0`
+- [ChainSecurity, April 2024](audits/ChainSecurity_Vyper_April_2024_limited_review.pdf)
+  - Codegen pipeline
 - [Statemind, June 2024](audits/Statemind_Vyper_June_2024_audit.pdf)
     - Storage layout and Modules v0.3.10-v0.4.0rc4
 - [ChainSecurity, June 2024](audits/ChainSecurity_Vyper_June_2024_limited_review.pdf)
