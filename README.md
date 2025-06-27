@@ -27,6 +27,8 @@
     - Storage layout and Modules v0.3.10-v0.4.0rc4
 - [ChainSecurity, June 2024](audits/ChainSecurity_Vyper_June_2024_limited_review.pdf)
     - ABI decoder  and v0.4.0 PRs
+- [OtterSec, June 2024](audits/OtterSec_Vyper_June_2024.pdf)
+  - Vyper 0.4.0 release
 
 ## 2023
 - [ChainSecurity, January 2023](audits/ChainSecurity_Vyper_January_2023_limited_review.pdf)
